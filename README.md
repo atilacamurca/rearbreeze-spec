@@ -25,7 +25,7 @@ you create HTML data attributes. Here are some advantages:
 </div>
 ```
 
-### CSS Attr
+### Rearbreeze
 
 ```html
 <div
